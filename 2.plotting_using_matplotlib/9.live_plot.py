@@ -13,7 +13,7 @@ ax1 = fig1.add_subplot(1, 1, 1)
 
 
 def animate(p):
-    plot_data = open('sample.csv', 'r').read()
+    plot_data = open('csv/sample.csv', 'r').read()
 
     line_data = plot_data.split('\n')
     x1 = []
