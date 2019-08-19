@@ -1,2 +1,2 @@
-# basic_requirments_for_ML
+# ML_for_beginners
  
