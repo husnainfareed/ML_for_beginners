@@ -13,12 +13,13 @@ I have categorized subdirectories in main repository with:
 Installation Requirements:
 -	Python :  https://www.python.org/ftp/python/3.7.4/python-3.7.4.exe 
 -	Paste these commands in cmd
-o	pip install numpy
-o	pip install matplotlib
-o	pip install pandas
-o	pip install –U scikit-learn 
-o	pip install Jupyter : a web-application where you will code 
-That’s it.  
+    pip install numpy
+    pip install matplotlib
+    pip install pandas
+    pip install –U scikit-learn 
+    pip install Jupyter : a web-application where you will code 
+
+That’s it. 
 
 
 
