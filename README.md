@@ -2,7 +2,7 @@
 
 Machine learning is one of the thrilling fields in today’s era. Newbies are excited to learn it but they somehow have no idea where to start from. 
 In this tutorial, I have covered around everything that requires at least basic understanding and tools demanded to help you get your hands dirty in ML. 
-Primarily, in order to dive into ML, one should have knowledge of Python, and Python’s libraries i.e. numpy, pandas, matplotlib, scikit-learn, tensor flow etc...  Although, there are much advanced tools and libraries updated regularly and are available on internet yet at least for ABC of ML, the resources available are adequate and enough.
+Primarily, in order to dive into ML, one should have knowledge of Python, and Python’s libraries i.e. numpy, pandas, matplotlib, scikit-learn, tensor flow etc...  Although, there are much advanced tools and libraries updated regularly and are available on internet yet at least for ABC of ML, the resources available are adequate and enough. Nevertheless, I will keep updating this repository with further additionals.  
 I have categorized subdirectories in main repository with:
 1.	Python 
 2.	Numpy 
