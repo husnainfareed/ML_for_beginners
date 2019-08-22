@@ -15,9 +15,9 @@ Installation Requirements:
 -	Paste these commands in cmd
     - pip install numpy
     - pip install matplotlib
-    pip install pandas
-    pip install –U scikit-learn 
-    pip install Jupyter : a web-application where you will code 
+    - pip install pandas
+    - pip install –U scikit-learn 
+    - pip install Jupyter : a web-application where you will code 
 
 That’s it. 
 
