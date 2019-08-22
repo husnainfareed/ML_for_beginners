@@ -10,6 +10,7 @@ I have categorized subdirectories in main repository with:
 4.	Pandas 
 5.	Scikit-learn 
 6.	Tensor Flow 
+
 Installation Requirements:
 -	Python :  https://www.python.org/ftp/python/3.7.4/python-3.7.4.exe 
 -	Paste these commands in cmd
