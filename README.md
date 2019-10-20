@@ -12,6 +12,7 @@ I have categorized subdirectories in main repository with:
 6.	Tensor Flow 
 
 Installation Requirements:
+
 -	Python :  https://www.python.org/ftp/python/3.7.4/python-3.7.4.exe 
 -	Paste these commands in cmd
     - pip install numpy
@@ -19,8 +20,10 @@ Installation Requirements:
     - pip install pandas
     - pip install –U scikit-learn 
     - pip install Jupyter : a web-application where you will code 
+   
+Recommended: Install Anaconda Navigator whcich includes all packages and libraries.
 
-That’s it. 
+Thatnks, if you have any questions, please ask in the comments. If you want to contribute, please go ahead.
 
 
 
